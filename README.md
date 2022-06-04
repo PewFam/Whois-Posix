@@ -10,3 +10,6 @@ all the commands :
 
 
 Have Fun !
+
+CREDITS BY PewFam 
+LIbERtY#1856 -> Discord
