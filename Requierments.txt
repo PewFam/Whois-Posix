@@ -1,2 +1,4 @@
 pip install os
 pip install pystyle
+
+if you are on Linux... you need to install whois doing : sudo apt install whois
