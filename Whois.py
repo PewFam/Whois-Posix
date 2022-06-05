@@ -10,6 +10,7 @@ def lookup():
 def clear():
     if name == 'nt':
         system('cls')
+        print("this tool doesn\'t work on windows")
     else:
         system('clear')
 
