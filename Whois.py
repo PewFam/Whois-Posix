@@ -10,7 +10,7 @@ def lookup():
 def clear():
     if name == 'nt':
         system('cls')
-        print("this tool doesn\'t work on windows")
+        print("this tool doesn\'t work on windows. I highly recommend https://whois.domaintools.com/ .")
     else:
         system('clear')
 
